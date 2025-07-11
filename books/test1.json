@@ -1,0 +1,45 @@
+{
+  "bookName": "test1",
+  "bookWidth": 350,
+  "bookHeight": 400,
+  "coverColor": "#DC143C",
+  "backCoverColor": "#DC143C",
+  "pages": [
+    {
+      "name": "Front Cover",
+      "width": 350,
+      "height": 400,
+      "backgroundColor": "#DC143C",
+      "backgroundImage": "",
+      "alignment": "",
+      "contentHtml": "<p>Your Book Title</p>"
+    },
+    {
+      "name": "Page 1",
+      "width": 350,
+      "height": 400,
+      "backgroundColor": "#ffffff",
+      "backgroundImage": "",
+      "alignment": "left",
+      "contentHtml": "a"
+    },
+    {
+      "name": "Page 2",
+      "width": 350,
+      "height": 400,
+      "backgroundColor": "#ffffff",
+      "backgroundImage": "",
+      "alignment": "left",
+      "contentHtml": "b"
+    },
+    {
+      "name": "Back Cover",
+      "width": 350,
+      "height": 400,
+      "backgroundColor": "#DC143C",
+      "backgroundImage": "",
+      "alignment": "",
+      "contentHtml": "<p>The End</p>"
+    }
+  ]
+}

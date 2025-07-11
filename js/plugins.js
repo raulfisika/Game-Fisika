@@ -3,5 +3,9 @@
 var $plugins =
 [
 {"name":"ModernBooksDEMO","status":true,"description":"Adds a new way to create and read books for your game!","parameters":{"Button Settings":"","ButtonSize":"48","ButtonPositionX":"20","ButtonPositionY":"20","ButtonColorNormal":"#000000","ButtonColorHover":"#333333","ButtonGap":"20","CloseButtonText":"auto","NextPageText":"auto","BackPageText":"auto","Sound Settings":"","ChangePageSound":"Book1","ChangePageVolume":"90","ChangePagePitch":"100"}},
-{"name":"modern_book_plugin (1)","status":false,"description":"Modern-style interactive book viewer for RPG Maker MZ.","parameters":{}}
+{"name":"AltMenuScreen","status":true,"description":"Alternative menu screen layout.","parameters":{}},
+{"name":"AltSaveScreen","status":true,"description":"Alternative save/load screen layout.","parameters":{}},
+{"name":"ButtonPicture","status":true,"description":"Makes a picture clickable.","parameters":{}},
+{"name":"TextPicture","status":true,"description":"Displays text as a picture.","parameters":{}},
+{"name":"5Actors","status":true,"description":"","parameters":{}}
 ];
