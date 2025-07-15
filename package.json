@@ -4,8 +4,8 @@
     "chromium-args": "--force-color-profile=srgb --disable-devtools",
     "window": {
         "title": "Fisika Arcana",
-        "width": 1900,
-        "height": 950,
+        "width": 1280,
+        "height": 640,
         "position": "center",
         "icon": "icon/icon.png"
     }
